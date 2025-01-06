@@ -1,0 +1,10 @@
+The task was to implement a Flipkart Buy Now Pay Later application. The key requirements were:
+
+
+Users should be assigned an initial credit limit.
+While placing an order, users can choose to either:
+Pay in cash
+Use the Pay Later feature
+Users get 30 days to clear dues.
+Users should be blacklisted if they default on payments 3 or more times.
+The problem required careful handling of edge cases like consecutive defaults and state management for user blacklisting.
