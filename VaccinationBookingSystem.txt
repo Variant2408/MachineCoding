@@ -1,0 +1,22 @@
+I recently had my first interview for the SDE-1 position at Allen Digital, which was a machine coding interview conducted by barraiser—a third-party company that handles interviews for other firms. I had around 10 months of experience.
+
+
+I was tasked with designing an entire Vaccination Booking System in 100 mins. It was a 120 mins long interview, the first and last 10 mins were given for discussions. I was needed to think as well as code my entire system in 100 mins.
+
+
+The interviewer had come up with his own entire set of requirement for vaccination booking system. I was required to create APIs/functions for each requirement. The main requirements were:-
+
+
+Add the users and vaccination centers.
+Each vaccination center have a different capacity on each day and they are located in different district and states. We can modify/add the capacity to the vaccination center for each day.
+Get the capacity of each vaccination center of any nth day.
+List of all the vaccination centers in a particular district.
+Allow the users to book a vaccination slot, return a booking id and decrease the capacity of the vaccination center. Also, check if the user's age is eligible to book a vaccination slot ie if he/she is above the age of 18 and if the vaccination center have the required capacity.
+The user can also cancel his booking using the above mentioned booking id. In this case you also have to free up the capacity of the center.
+I was able to code a working system with above mentioned requriements within the defined time limit.
+
+
+Also there was one more bonus requirement apart from all the above requirements, this wasn't complusory but since my time was over I asked him to give 5 extra mins since it was a pretty basic requirements but he asked me just upload the code and get on the discussion part.
+
+
+The discussion was just focused on how I tackled the problem and what was my solution to the problem.
