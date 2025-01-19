@@ -17,6 +17,8 @@
 [Flight Management](https://leetcode.com/discuss/interview-question/4893397/PhonePe-SDE-2)<br>
 [In-memory SQL-like Database](https://leetcode.com/discuss/interview-question/4750617/Razorpay-SDE-LLD)<br>
 [Flipkart Daily](https://docs.google.com/document/d/1MXmAdDwO9SwEkLAQ-cvm7T2C1FyJzS3mi8zGUDrqJSg/edit?tab=t.0)<br>
+[BidBlitz](https://leetcode.com/discuss/interview-question/4092098/Flipkart-or-Machine-Coding)
+
 
 
 
